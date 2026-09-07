@@ -1,6 +1,6 @@
 Round 1
-paper
+paper Jan
 Round 2
-rock
+rock  Tie
 Round 3
-scissors
+Rock  Me
